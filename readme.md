@@ -6,5 +6,4 @@
 <p>④你可以评论视频</p>
 <p>⑤视频收集无排列顺序</p>
 <h2>链接如下</h2>
-<p>av10388[武器A]http://github.com/funnymdzz/av10388</p>
-<p>av10492[不解释]http://github.com/funnymdzz/av10492</p>
+<p>[创价合集(av10492 av10388 av11425等]http://github.com/funnymdzz/chuangjia</p>
